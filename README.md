@@ -13,7 +13,7 @@ align = "center" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3N
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha167" alt="astha167" /></a> </p>
 <p align="center">
 <img
-align = "center" src="https://media0.giphy.com/media/5K7ngCtszoxxbaBieC/giphy.webp?cid=82a1493b8gd3yxrba33i39sg4xwgxs6ygf4js72v344bmixj&ep=v1_gifs_trending&rid=giphy.webp&ct=g" width="250" height="250"/>
+align = "center" src="https://media.giphy.com/media/5K7ngCtszoxxbaBieC/giphy.gif?cid=82a1493b8gd3yxrba33i39sg4xwgxs6ygf4js72v344bmixj&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="250" height="250"/>
 </p>
 
 - 🌱 I’m currently learning **C,Java,C++,Python,HTML**
