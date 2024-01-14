@@ -3,24 +3,24 @@
 <h1 align="center">Hi 👋, I'm Astha Kumari</h1>
 <p align="center">
 <img
-align = "center" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3NHR5M3JrOHE3eG9vdzNydGJvbHh0b2d4ZjUyb3pvazNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5K7ngCtszoxxbaBieC/giphy.gif" width="180" height="180"/>
+align = "center" src=https://media1.giphy.com/media/C7Gj216EwEi4/giphy.gif?cid=ecf05e47sret1x11u0e37ea1iu7ndl3bj9go0g83u4u1k5h9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" height="180"/>
 </p>
-
 <h3 align="center">A passionate full stack developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astha167&label=Profile%20views&color=0e75b6&style=flat" alt="astha167" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha167" alt="astha167" /></a> </p>
 <p align="center">
 <img
-align = "center" src="https://media.giphy.com/media/5K7ngCtszoxxbaBieC/giphy.gif?cid=82a1493b8gd3yxrba33i39sg4xwgxs6ygf4js72v344bmixj&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="250" height="250"/>
+align = "center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3NHR5M3JrOHE3eG9vdzNydGJvbHh0b2d4ZjUyb3pvazNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5K7ngCtszoxxbaBieC/giphy.gif" width="250" height="250"/>
 </p>
 
-- 🌱 I’m currently learning **C,Java,C++,Python,HTML**
+- 🌱 I’m currently learning *C,Java,C++,Python,HTML*
 
-- 📫 How to reach me **asthakumari605@gmail.com**
+- 📫 How to reach me *asthakumari605@gmail.com*
 
-- ⚡ Fun fact **I think I am studious**
+- ⚡ Fun fact *I think I am studious*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +38,4 @@ align = "center" src="https://media.giphy.com/media/5K7ngCtszoxxbaBieC/giphy.gif
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha167&" alt="astha167" /></p>
 
 
+try pasting it in your read.md
