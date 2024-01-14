@@ -37,5 +37,3 @@ align = "center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwZ3k3
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha167&" alt="astha167" /></p>
 
-
-try pasting it in your read.md
